@@ -4,6 +4,7 @@ repository with the R code behind the manuscript about antarctic climatic simila
 - `eucl_clean.r` contains the R code to compute the euclidean distances and look into different thresholds.
 - `download_gbif_data.R` R code to download the species data from GBIF
 - `ResW_mergeResults.r` contains the R code that puts together the outputs from `eucl_clean.r` for the world.
+- `fig World eucl dist.r` creates the figure showing the minimum euclidean distance between Antarctica and the rest of the world.
 - `figureS1_histSOIthreshold.r` contains the R code that identifies the threshold to use to differentiate similar climate from dissimilar climate.
 - `fig_SOI_eucl_antarctica.r` contains the R code to build the mini maps of the Southern Ocean Islands
 - `sinkMap.r` contains the R code using `ggplot` to map the Antarctic sinks. 
