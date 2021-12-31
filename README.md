@@ -12,3 +12,5 @@ repository with the R code behind the manuscript about antarctic climatic simila
 - `Indices plot.r` contains the R code to create the plot with the species indices
 - `figureS3_classify_world_byACBRcount.R` contains the code to see the relationship between ACBR counts and the minimum euclidean distance of each point in the world.
 
+# Result Files
+These files can be accessed via: https://doi.org/10.5281/zenodo.5812047
